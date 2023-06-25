@@ -1,0 +1,1 @@
+Cinema Room Manager Simulator: This project aims to simulate a cinema room manager with various functionalities. It includes the ability to choose movie tickets and calculate their prices, as well as providing a visual representation of the cinema room layout."
