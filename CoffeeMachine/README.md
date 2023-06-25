@@ -1,0 +1,1 @@
+Java Coffee Vending Machine Simulator: This project is a simulation of a coffee vending machine written in Java. The simulator offers several functions, including the ability to make coffee, refill ingredients, receive payments, and check ingredient levels."
